@@ -91,5 +91,5 @@ Ahora crearemos un diccionario que estará compuesto por las listas resultantes 
 
 Por ultimo calcularemos las estadísticas para cada estudiante y se agregaran los resultados al diccionario anterior.
 
-Creamos un dataframe para poder observar de mejor manera los resulta
+Creamos un dataframe para poder observar de mejor manera los resulta.
 
